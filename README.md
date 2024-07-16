@@ -1,2 +1,2 @@
 # gng_bg
-Background removal fake detection pipeline
+Fake detection pipeline with background removal and SHAP explainability.
